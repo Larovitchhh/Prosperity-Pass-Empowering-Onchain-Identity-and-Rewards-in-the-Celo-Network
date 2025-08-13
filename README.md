@@ -1,2 +1,4 @@
 # Prosperity-Pass-Empowering-Onchain-Identity-and-Rewards-in-the-Celo-Network
 Prosperity Pass: Empowering Onchain Identity and Rewards in the Celo Network
+The Celo blockchain, a mobile-first, carbon-negative platform, is revolutionizing financial inclusion by making decentralized finance (DeFi) accessible to anyone with a smartphone. At the heart of this mission lies Prosperity Pass, a groundbreaking smart account wallet and Web3 identity solution designed to recognize, reward, and coordinate contributions within the Celo ecosystem. Launched in collaboration with Celo Public Goods (CeloPG) and partners like Masa Finance, Prosperity Pass is redefining onchain reputation and engagement, fostering a regenerative digital economy. This article explores the features, impact, and future potential of Prosperity Pass within the Celo network.
+
